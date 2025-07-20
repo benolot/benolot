@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
+
 **benolot/benolot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey! I'm Samantha, or @benolot 😊. I'm a lead relability engineer at a UK Games studio 🎮 working on a classic MMORPG currently living in London, GB 🇬🇧.
+
+I'm interested in pretty much everything around infrastructure (cloud and on prem), SRE/Devops and backend devlopment. Also interested in Mac and Linux gaming in my one woman quest to end the monoply of Windows on my favourite hobby 😤.
+
+Occasionally you'll see me around in repos related to those areas, say hi I promise I'm nice! 😊 You can also find me over on [my site](https://benolot.com), and various social media with [bluesky](https://bsky.app/profile/benolot.com) being my most active one since the death of Twitter.

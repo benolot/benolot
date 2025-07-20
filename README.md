@@ -19,4 +19,4 @@ Hey! I'm Samantha, or @benolot 😊. I'm a lead relability engineer at a UK Game
 
 I'm interested in pretty much everything around infrastructure (cloud and on prem), SRE/Devops and backend devlopment. Also interested in Mac and Linux gaming in my one woman quest to end the monoply of Windows on my favourite hobby 😤.
 
-Occasionally you'll see me around in repos related to those areas, say hi I promise I'm nice! 😊 You can also find me over on [my site](https://benolot.com), and various social media with [bluesky](https://bsky.app/profile/benolot.com) being my most active one since the death of Twitter.
+Occasionally you'll see me around in repos related to those areas, say hi I promise I'm nice! 😊 You can also find me over on [my site](https://benolot.com), and various social media with [Bluesky](https://bsky.app/profile/benolot.com) being my most active one since the death of Twitter.
